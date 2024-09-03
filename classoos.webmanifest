@@ -7,6 +7,6 @@
 			"sizes": "512x512"
 		}
 	],
-	"start_url": "my.classoos.com",
+	"start_url": "https://my.classoos.com/",
 	"display": "standalone"
 }
