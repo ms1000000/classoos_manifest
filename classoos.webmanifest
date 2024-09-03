@@ -1,0 +1,12 @@
+{
+	"name": "Classoos",
+	"icons": [
+		{
+			"src": "https://icons.iconarchive.com/icons/icojam/matreshka/256/red-matreshka-inside-icon-icon.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "my.classoos.com",
+	"display": "standalone"
+}
