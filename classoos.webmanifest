@@ -8,5 +8,6 @@
 		}
 	],
 	"start_url": "https://my.classoos.com/",
+	"scope": "https://my.classoos.com/",
 	"display": "standalone"
 }
